@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JDE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/java-jde/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/java-jde/lib" recursive="false" />
+  </library>
+</component>
